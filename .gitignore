@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+data/
+pai_env/
+support/
+memo.md
+workspace.code-workspace

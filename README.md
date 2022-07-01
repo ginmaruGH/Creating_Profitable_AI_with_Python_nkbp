@@ -4,6 +4,8 @@
 
 [正誤表](https://github.com/makaishi2/profitable_ai_book_info/blob/master/refs/errors.md)
 
+[notebook一覧](https://github.com/makaishi2/profitable_ai_book_info/blob/master/refs/notebooks.md)
+
 ---
 
 ## Chap.01 業務と機械学習プロジェクト
